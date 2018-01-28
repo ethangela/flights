@@ -1,7 +1,7 @@
 # Flights
 Here in my code I solved the following problems:
  
-1) How are the flights delays by Airlines/Airports/States/Routes?
+- How are the flights delays by Airlines/Airports/States/Routes?
 
 2) Which Airlines/Airports/States/Routes have the most delays? (In terms of the number and time span of delay)
 
